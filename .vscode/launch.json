@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/作業/大一上/NTOUCSE-113-1-Program-Design/week1/簡單C程式輸出入練習",
-      "program": "d:/作業/大一上/NTOUCSE-113-1-Program-Design/week1/簡單C程式輸出入練習/build/Debug/outDebug",
+      "cwd": "d:/作業/大一上/NTOUCSE-113-1-Program-Design/week3/2. 檢查簡單數列",
+      "program": "d:/作業/大一上/NTOUCSE-113-1-Program-Design/week3/2. 檢查簡單數列/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
